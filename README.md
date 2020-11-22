@@ -8,5 +8,7 @@ cd do folderu
 
 npm install
 
+zmienić nazwę pliku "shopPage.js" w ./src/views na "ShopPage.js"
+
 npm start
  
